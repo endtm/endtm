@@ -13,13 +13,13 @@
 <!-- Discord Lanyard -->
 <div align="center">
   <a href="https://discord.com/users/1185987237763096649">
-    <img src="https://lanyard-profile-readme.vercel.app/api/1185987237763096649?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Crafting%20clean%20code%20and%20chaos...%20💻" alt="Discord Presence" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/1185987237763096649?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Coding%20💻" alt="Discord Presence" />
   </a>
 </div>
 <!-- Discord Lanyard -->
 <div align="center">
   <a href="https://discord.com/users/901796081770319892">
-    <img src="https://lanyard-profile-readme.vercel.app/api/901796081770319892?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Crafting%20clean%20code%20and%20chaos...%20💻" alt="Discord Presence" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/901796081770319892?theme=dark&animated=true&hideDiscrim=true&borderRadius=20px&idleMessage=Coding%20💻" alt="Discord Presence" />
   </a>
 </div>
 
